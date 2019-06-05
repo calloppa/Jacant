@@ -8,9 +8,9 @@ app.use(helmet())
 
 app.get('*', (req, res) => {
     res.set('Content-Type', 'text/html')
-    res.status(200).send(`
-        <h1><marquee direction=right>Hello from Express path '/' on Now 2.0!</marquee></h1>
-        <h2>Go to <a href="/about">/about</a></h2>
+    res.send(200, `
+        <h1><marquee direction=left>Hello from Express path '/about' on Now 2.0!</marquee></h1>
+        <h2>Go to <a href="/">/</a></h2>
     `)
 })
 
