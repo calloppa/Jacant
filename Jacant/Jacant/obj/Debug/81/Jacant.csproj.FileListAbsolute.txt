@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Mobile lab\course2\Jacant\Jacant\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Administrator\Desktop\Mobile lab\course2\Jacant\Jacant\obj\Debug\81\Jacant.nuget.stamp
+C:\Users\Administrator\Desktop\Mobile lab\course2\Jacant\Jacant\obj\Debug\81\Jacant.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Mobile lab\course2\Jacant\Jacant\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Administrator\Desktop\Mobile lab\course2\Jacant\Jacant\obj\Debug\81\res.flag
